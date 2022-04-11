@@ -1,0 +1,18 @@
+
+
+ .App {
+  display: inline-flexbox;
+  }
+
+  .CardGroup  {
+       display: inline-flexbox;
+  }
+
+  .Carousel {
+      display:-ms-flexbox;
+  }
+
+  .columnContainer { 
+    display: flex; 
+    height: calc(100vh - 60px);
+ }
